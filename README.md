@@ -16,7 +16,8 @@ This Url Shortener application contains following pages and functionalities:
 
 3.Account activation mail:
 
-<img width="714" alt="Account activation mail3" src="https://github.com/iamLalitha/Urlshortener-Frontend/assets/130632883/e4aca507-ddab-49f3-8083-c595a65183f2">
+<img width="712" alt="Account activation3" src="https://github.com/iamLalitha/Urlshortener-Frontend/assets/130632883/ff8ccf66-d90e-44ec-b329-defd7eb0b0b0">
+
 
 4.Login page:
 
