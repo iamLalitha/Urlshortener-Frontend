@@ -1,0 +1,12 @@
+.home-container {
+  /* background-color: #fbe3e8; */
+  background-image: url('../background2.png');
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+  }
+  
+  /* .shortlinkr-card {
+    color: #ebf6f5;
+  } */
