@@ -1,4 +1,4 @@
-# ShortLinkr - a urlSShortener application
+# ShortLinkr - a UrlShortener application
 Frontend Live Url:  https://gilded-heliotrope-6bfcfd.netlify.app/
 
 Tools used:
