@@ -1,3 +1,3 @@
-const API_BASE_URL = 'http://localhost:3001';
+const API_BASE_URL = 'https://urlshortener-backend-55o1.onrender.com';
 
 export {API_BASE_URL};
